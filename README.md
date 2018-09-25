@@ -1,4 +1,4 @@
-#Live Webcam Color-Object-Tracking
+<h2>Live Webcam Color-Object-Tracking</h2><br>
 Tracking any  color object (green here) using OpenCV
 
 <h3>Dependencies</h3><br>
