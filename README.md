@@ -1,5 +1,5 @@
 <h2>Live Webcam Color-Object-Tracking</h2><br>
-Tracking any  color object (green here) using OpenCV. Also used threading to increase the fps.
+Tracking any  color object (blue here) using OpenCV. Also used threading to increase the fps.
 
 <h3>Code Requirements</h3><br>
 1.Python<br>
